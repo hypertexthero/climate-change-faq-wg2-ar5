@@ -1,5 +1,4 @@
-
-The following is the [Intergovernmental Panel on Climate Change's](http://ipcc.ch/report/ar5/wg2/) [WGII AR5 Volume-wide Frequently Asked Questions (FAQs)](http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Volume-FAQs_FGD.pdf) converted to Markdown format. Here's a [blog post](http://hypertexthero.com/logbook/2014/04/climate-change-communication/ "Climate Change Communication") about why this is a good thing.
+The following is the [Intergovernmental Panel on Climate Change's](http://ipcc.ch/report/ar5/wg2/) [WGII AR5 Volume-wide Frequently Asked Questions (FAQs)](http://ipcc-wg2.gov/AR5/images/uploads/WGIIAR5-Volume-FAQs_FGD.pdf) converted to [Markdown](http://en.wikipedia.org/wiki/Markdown) format. Here's a [blog post](http://hypertexthero.com/logbook/2014/04/climate-change-communication/ "Climate Change Communication") about why this is a good thing.
 
 * * *
 
